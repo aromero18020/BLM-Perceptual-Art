@@ -1,6 +1,6 @@
 #BLM Perceptual Art
 > Title: BLM Perceptual Art
-> Live: 
+> Live: https://aromero18020.github.io/BLM-Perceptual-Art/
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -42,7 +42,8 @@ Room for improvement:
 - 
 
 To do:
-
+- N/A
+-
 
 ## Acknowledgements
 Give credit here.
